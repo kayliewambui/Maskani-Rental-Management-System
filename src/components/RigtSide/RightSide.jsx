@@ -6,7 +6,7 @@ import "./RightSide.css";
 const RightSide = () => {
   return (
     <div className="RightSide">
-      <div>
+      <div> m 
         <h3>Updates</h3>
         <Updates />
       </div>
